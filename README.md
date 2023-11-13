@@ -25,7 +25,7 @@ https://yedilsan.github.io/Habit-tracker/
 Clone this repository:
    ```bash
    git clone [https://github.com/yourusername/habit-tracker.git](https://github.com/yedilsan/Habit-tracker)
-   ``
+   ```
 
 ## Screenshots
 ![image](https://github.com/yedilsan/Habit-tracker/assets/80204971/0864bae5-ec2b-46e6-b430-689035ec7725)
